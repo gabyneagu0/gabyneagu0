@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihai Neagu</h1>
 <h3 align="center">A programming enthusiast</h3>
-<imag align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 📫 How to reach me **mihai.neagu404@gmail.com**
 
